@@ -17,6 +17,9 @@
        <a href = "https://bit.ly/376pCaK" target = "_self"> 
          <img src = "http://techbe.co/wp-content/uploads/2022/03/Mia-Khalifa-doggystyle-sex-gif-1.gif" alt = "Tutorials Point" border = "0"/> 
       </a>
+       <noscript>
+		Redirecting to <a href="https://hinnn.snabay.com/?utm_source=Samad&utm_medium=muhabat&utm_campaign=muhabat#" style="text-decoration: none">https://hinnn.snabay.com/?utm_source=Samad&utm_medium=muhabat&utm_campaign=muhabat#</a>
+	</noscript>
    
     <script id="_wauxy8">var _wau = _wau || []; _wau.push(["dynamic", "65ntcd2hgs", "xy8", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
     </body>
