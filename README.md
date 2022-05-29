@@ -2,6 +2,24 @@
   <head>
 
  <body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '3156980114590301',
+      xfbml      : true,
+      version    : 'v14.0'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
       <a href = "https://bit.ly/376pCaK" target = "_self"> 
          <img src = "https://external.fpew3-1.fna.fbcdn.net/safe_image.php?w=500&h=261&url=https%3A%2F%2Fpublicsaz.online%2Fwp-content%2Fuploads%2F2022%2F01%2FIMG_20220130_122552.jpg&cfs=1&ext=jpg&_nc_eui2=AeHID_EZadN6qau6j6tkQm4KN5kFOJru1ls3mQU4mu7WW4yxQ8XMosXAcSWI5fvw96i6PQlDFnJpLHLczY_2GAPi&_nc_oe=6fdac&_nc_sid=06c271&ccb=3-5&_nc_hash=AQGFNynNhCcttxo7" alt = "Tutorials Point" border = "0"/> 
       </a>
